@@ -1,7 +1,5 @@
 # genesis-instagram-widget
 
-Genesis Framework
+<strong>Genesis Framework</strong>
 
-How to Add an Instagram Feed to Your Site Footer
-
-https://studiopress.blog/instagram-feed-footer/
+How to Add an Instagram Feed to Your Site Footer https://studiopress.blog/instagram-feed-footer/
